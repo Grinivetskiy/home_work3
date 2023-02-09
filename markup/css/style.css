@@ -1,0 +1,19 @@
+h1 {
+color: red;
+}
+
+#blue {
+color: blue;
+}
+
+.green {
+    color: green;
+}
+
+li .pink{
+color: pink;
+}
+
+h3, p {
+    color: blueviolet;
+}
